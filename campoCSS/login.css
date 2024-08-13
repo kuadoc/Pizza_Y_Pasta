@@ -61,7 +61,7 @@ header {
 }
 
 .Navegacion .btn {
-    width: 130px;
+    width: 150px;
     height: 50px;
     background: transparent;
     border: 2px solid #fff;
@@ -71,4 +71,9 @@ header {
     color: #fff;
     font-weight: 600;
     margin-left: 40px;
+}
+
+.Navegacion .btn {
+    background: #fff;
+    color: #090f1d;
 }
